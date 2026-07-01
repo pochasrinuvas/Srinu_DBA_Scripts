@@ -1,4 +1,4 @@
-##Definations
+#Definations
 Local Repository: Repository on your computer containing project files and the hidden .git folder.
 Remote Repository: Repository hosted on GitHub for collaboration.
 git add: Stages changes for the next commit.
