@@ -1,4 +1,5 @@
 #Definations
+
 Local Repository: Repository on your computer containing project files and the hidden .git folder.
 Remote Repository: Repository hosted on GitHub for collaboration.
 git add: Stages changes for the next commit.
@@ -8,6 +9,7 @@ git push: Uploads commits to GitHub.
 origin: Default alias for the remote GitHub repository.
 
 ##Commands Learned
+
 •	git status
 •	git add .
 •	git commit -m "Initial DBA scripts"
@@ -16,4 +18,5 @@ origin: Default alias for the remote GitHub repository.
 •	git push -u origin main
 
 ##Workflow
+
 Create Files -> git init -> git status -> git add . -> git commit -> git remote add origin -> git push -> GitHub
