@@ -1,0 +1,18 @@
+Local Repository: Repository on your computer containing project files and the hidden .git folder.
+Remote Repository: Repository hosted on GitHub for collaboration.
+git add: Stages changes for the next commit.
+Staging Area: Temporary area containing files selected for the next commit.
+git commit: Creates a snapshot of staged changes in the local repository.
+git push: Uploads commits to GitHub.
+origin: Default alias for the remote GitHub repository.
+
+Commands Learned
+•	git status
+•	git add .
+•	git commit -m "Initial DBA scripts"
+•	git remote add origin <repo-url>
+•	git branch -M main
+•	git push -u origin main
+
+Workflow
+Create Files -> git init -> git status -> git add . -> git commit -> git remote add origin -> git push -> GitHub
