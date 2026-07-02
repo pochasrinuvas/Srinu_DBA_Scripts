@@ -1,3 +1,5 @@
 backup file script and Git learning.
 
 -- Feature: Backup Encryption Enabled
+
+--Compression
