@@ -1,5 +1,5 @@
 backup file script and Git learning.
 
--- Feature: Backup to disk
+-- Feature: Backup to cloud
 
 --Compression
