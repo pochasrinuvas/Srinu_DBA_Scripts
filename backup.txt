@@ -1,5 +1,5 @@
 backup file script and Git learning.
 
--- Feature: Backup to cloud
+-- Feature: Backup to blob
 
 --Compression
