@@ -1,1 +1,1 @@
-it's index maintenance sql script
+it's index maintenance script
