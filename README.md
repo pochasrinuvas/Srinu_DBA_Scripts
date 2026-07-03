@@ -17,3 +17,11 @@ This repository contains my SQL Server and PostgreSQL DBA scripts along with my 
 ## Author
 
 Srinu P
+
+
+## Learning Progress
+
+- Git Fundamentals
+- Git Branches
+- Git Merge
+- Pull Requests (Learning)
