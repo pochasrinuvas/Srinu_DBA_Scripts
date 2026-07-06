@@ -25,3 +25,4 @@ Srinu P
 - Git Branches
 - Git Merge
 - Pull Requests (Learning)
+--git internals
